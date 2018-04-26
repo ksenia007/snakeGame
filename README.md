@@ -10,3 +10,8 @@ The additional FaceOSC control allows user to control the movement of the snake 
 *Note*: for this to function properly, you need to have FaceOSC open and running locally.
 
 ## Sample screenshots:
+
+<p align="center">
+  <img src="images/one.png" width="350"/>
+  <img src="images/two.png" width="350"/>
+</p>
